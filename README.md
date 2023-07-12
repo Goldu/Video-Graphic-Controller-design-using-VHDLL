@@ -1,1 +1,1 @@
-# Video-Graphic-Controller-design-using-VHDLL
+# Video-Graphic-Controller-design-using-VHDL
